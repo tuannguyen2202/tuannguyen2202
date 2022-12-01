@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<!--
 **tuannguyen2202/tuannguyen2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 # Hello 🤠 Thank you for being here 
 
-My name is Hoang, you can call me Mow
+My name is Tuan Dev, you can call me TDM
 This is my Github account. I use it for learning, working
 
 Have a nice day!
