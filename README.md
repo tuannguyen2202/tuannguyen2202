@@ -1,4 +1,15 @@
 
+# Hello 🤠 Thank you for being here 
+
+My name is Tuan, you can call me Nau.T
+This is my Github account. I use it for learning, working
+
+Have a nice day!
+
+![contributions](https://user-images.githubusercontent.com/52226178/205032289-692fcd4a-9cdb-47b1-8e74-8a7df75c7eb9.svg)
+
+
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
